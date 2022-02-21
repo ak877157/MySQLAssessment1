@@ -2,6 +2,8 @@ USE assessment1;
 
 SHOW TABLES;
 
+/* -----Inserting data into the tables----- */
+
 SELECT * FROM trainer_info;
 
 INSERT INTO `assessment1`.`trainer_info` 
